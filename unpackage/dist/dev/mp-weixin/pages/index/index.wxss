@@ -1,0 +1,14 @@
+
+.top {
+	margin-top: 20rpx;
+}
+.banner {
+	margin-top: 20rpx;
+}
+.choise {
+	margin-top: 20rpx;
+}
+.featuredSelection {
+	margin-top: 20rpx;
+}
+

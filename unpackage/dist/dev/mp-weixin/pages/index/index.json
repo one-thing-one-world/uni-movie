@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "严选商城",
+  "usingComponents": {
+    "top": "/components/index/top",
+    "banner": "/components/index/banner",
+    "choise": "/components/index/choise",
+    "brand": "/components/index/brand",
+    "new-product": "/components/index/newProduct",
+    "popularity-recommend": "/components/index/popularityRecommend",
+    "featured-selection": "/components/index/featuredSelection",
+    "live-hose": "/components/index/liveHose"
+  }
+}

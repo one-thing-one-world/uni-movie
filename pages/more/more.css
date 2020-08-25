@@ -1,0 +1,100 @@
+.more {
+	background: #EEEEEE;
+}
+
+.food-box {
+	width: 750rpx;
+	height: 250rpx;
+}
+
+.food-box image {
+	width: 100%;
+	height: 100%;
+}
+
+.title {
+	background: white;
+	height: 80rpx;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	font-size: 40rpx;
+}
+
+.content-pic {
+
+	width: 220rpx;
+	height: 220rpx;
+}
+
+.content-pic image {
+
+	width: 100%;
+	height: 100%;
+}
+
+.content-loop-item {
+	width: 342rpx;
+	background: white;
+	margin-top: 20rpx;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+.price-text-box{
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+}
+.content-box {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	padding-left: 20rpx;
+	padding-right: 20rpx;
+}
+.content-price{
+	font-size: 28rpx;
+	color: red;
+	margin-top: 10rpx;
+	margin-bottom:20rpx;
+}
+.content-des{
+	width: 320rpx;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+	display: flex;
+	justify-content: center;
+}
+.icon-up{
+	width:30rpx;
+	height:30rpx;
+}
+.icon-down{
+	width:30rpx;
+	height:30rpx;
+}
+.icon-up image{
+	width: 100%;
+	height: 100%;
+}
+.icon-down image{
+	width: 100%;
+	height: 100%;
+}
+.icon{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.price-text{
+	display: flex;
+}
+.comprehensive,.classification{
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+}

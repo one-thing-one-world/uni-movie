@@ -1,0 +1,29 @@
+*{
+	margin: 0rpx;
+	padding: 0rpx;
+	
+}
+.df{
+  display: flex;
+}
+.j-center{
+  display: flex;
+  justify-content: center;
+}
+.a-center{
+  display: flex;
+  justify-content: center;
+}
+.f-column{
+display: flex;
+flex-direction: column;
+}
+.j-between{
+  justify-content: space-between;
+}
+.j-around{
+  justify-content: space-around;
+}
+.b1{
+	border:2rpx solid black;
+}
